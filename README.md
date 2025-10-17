@@ -109,3 +109,7 @@ Evaluar el ticket promedio por categoría para identificar productos más rentab
 Bruno Argañaraz
 📊 Analista de Datos | Power BI | Python | SQL | ETL
 🔗 GitHub
+
+<img width="922" height="546" alt="descarga (1)" src="https://github.com/user-attachments/assets/625e984a-1448-4f39-bf81-6e0ea92006cc" />
+<img width="833" height="622" alt="descarga" src="https://github.com/user-attachments/assets/03d6a95d-1c8f-4138-a3c8-2c1a35b02e54" />
+<img width="857" height="563" alt="descarga (2)" src="https://github.com/user-attachments/assets/9306be48-0d02-44e3-99de-957926410344" />
